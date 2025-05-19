@@ -22,10 +22,10 @@ This Android application was developed as part of the Walmart Software Engineer 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/57ccfc1a-5c49-454b-bff4-c7f4fa0410c9" height="600" width="300" />
+      <img src="https://github.com/user-attachments/assets/abea50d7-0113-485f-91b2-d754c1442c21" height="600" width="300" />
     </td>
     <td>
-      <video src="https://github.com/user-attachments/assets/9c6022a4-7264-4c4a-bc6f-02a275dee4a4" width="300" height="600" controls />
+      <video src="https://github.com/user-attachments/assets/03f14198-327b-404e-999e-b7d346f53ef0" width="300" height="600" controls />
     </td>
   </tr>
 </table>
