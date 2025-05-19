@@ -19,8 +19,17 @@ This Android application was developed as part of the Walmart Software Engineer 
 
 **Please click the images below to enlarge**
 
-<img src="https://github.com/user-attachments/assets/57ccfc1a-5c49-454b-bff4-c7f4fa0410c9" height="600" width="300" hspace="20">
-<video src='https://github.com/user-attachments/assets/9c6022a4-7264-4c4a-bc6f-02a275dee4a4' width=180/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/57ccfc1a-5c49-454b-bff4-c7f4fa0410c9" height="600" width="300" />
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/9c6022a4-7264-4c4a-bc6f-02a275dee4a4" width="300" height="600" controls />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
