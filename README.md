@@ -1,5 +1,5 @@
 
-# Venkata Walmart Coding Assessment
+# Walmart Coding Assessment
 
 This Android application was developed as part of the Walmart Software Engineer (Android) coding assessment. It fetches and displays a scrollable list of countries from a public JSON API, showcasing Clean Architecture, MVVM, Kotlin Coroutines, Flow, and Retrofit. The UI presents each country's name, region, code, and capital, while handling edge cases and supporting device rotation.
 
