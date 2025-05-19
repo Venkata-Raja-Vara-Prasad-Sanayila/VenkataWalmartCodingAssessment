@@ -1,13 +1,7 @@
 
 # Venkata Walmart Coding Assessment
 
-An Android application built as part of a coding assessment, demonstrating Clean Architecture, MVVM pattern, and modern Android development practices using Kotlin, Coroutines, Flow, and Retrofit.
-
----
-
-## Overview
-
-This app fetches a list of countries from a public API and displays them in a RecyclerView. It's built with **separation of concerns** in mind and follows the principles of Clean Architecture.
+This Android application was developed as part of the Walmart Software Engineer (Android) coding assessment. It fetches and displays a scrollable list of countries from a public JSON API, showcasing Clean Architecture, MVVM, Kotlin Coroutines, Flow, and Retrofit. The UI presents each country's name, region, code, and capital, while handling edge cases and supporting device rotation.
 
 ---
 
@@ -63,7 +57,7 @@ Data Layer
 
 ### Architecture Diagram
 
-![Clean Architecture Diagram](https://user-images.githubusercontent.com/51234843/190183169-fb67bce4-9dc7-4de8-819b-3ee23d298e8a.png)
+<img src="https://github.com/user-attachments/assets/ce97b139-880c-4e4e-98e4-f94539f3e814" height="600" width="300" hspace="20">
 
 ---
 
