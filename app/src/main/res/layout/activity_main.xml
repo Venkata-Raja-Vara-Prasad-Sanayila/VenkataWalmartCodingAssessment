@@ -25,7 +25,7 @@
         android:visibility="gone"
         android:text="@string/default_error_network_message"
         android:gravity="center"
-        android:textColor="#555555"
+        android:textColor="@color/error_color"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
