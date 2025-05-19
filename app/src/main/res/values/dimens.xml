@@ -5,4 +5,5 @@
     <dimen name="dimen_12_sp">12sp</dimen>
     <dimen name="dimen_4_dp">4dp</dimen>
     <dimen name="dimen_0_dp">0dp</dimen>
+    <dimen name="dimen_8_dp">8dp</dimen>
 </resources>
